@@ -1,0 +1,43 @@
+import csv
+from rdkit import Chem
+from rdkit.Chem import BRICS
+import re
+
+#This code allows you to use the BRICS module in the rdkit module to generate 1st level fragments from a parent molecule.
+#It then cleans the fragment data, and inputs it into a csv.
+#It assumes the data is inputted from a csv, edit rows 26-28 based on your csv's format.
+
+# Read CSV file containing SMILES strings
+input_csv = 'book1.csv'  # Replace with the actual file name
+output_csv = 'fragment_list_full.csv'  # Replace with desired output file name
+
+def clean_smiles(smiles):
+    return re.sub(r'\(\)', '', smiles)
+
+#where to start iterating
+start_row = 66672
+
+
+
+with open(input_csv, 'r', encoding='utf-8-sig') as csvfile:
+    csvreader = csv.reader(csvfile)
+    for i, row in enumerate(csvreader):
+        if start_row <= i:
+            inchi = row[0]  #assuming inchi is in first column of the csv
+            spectrum = row[2]
+            smiles = row[1]  
+            mol = Chem.MolFromSmiles(smiles)
+            if mol is not None:            
+                p = sorted(BRICS.BRICSDecompose(mol,keepNonLeafNodes=True)) #this is the magic maker, generate fragments from parent molecule
+                new_fragment_list = []
+
+                #clean the fragment smiles
+                for fragment in p:
+                    new_fragment = re.sub(r'\[\d+\*\]', '', fragment)
+                    new_fragment_1 = clean_smiles(new_fragment)
+                    new_fragment_list.append(new_fragment_1)
+            
+                #write into a csv
+                with open(output_csv, mode='a', newline='') as outfile:
+                    csvwriter = csv.writer(outfile)
+                    csvwriter.writerow([new_fragment_list, smiles,spectrum, inchi])
