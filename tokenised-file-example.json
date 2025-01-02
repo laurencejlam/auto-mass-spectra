@@ -1,0 +1,5388 @@
+[
+    {
+        "OriginalMolecule": "1",
+        "Calculated MW": 247.68,
+        "Inchi": "InChI=1S/C12H10ClN3O/c13-11-8-10(6-7-14-11)16-12(17)15-9-4-2-1-3-5-9/h1-8H,(H2,14,15,16,17)",
+        "Spectrum": [
+            {
+                "m/z value": "66",
+                "Rel. Intensity": "30.630631",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "76",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "90",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1ccncc1",
+                "Token": "13",
+                "Calculated MW": 94.12
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "18.418418",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)Nc1ccnc(Cl)c1",
+                "Token": "15",
+                "Calculated MW": 156.57
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "1",
+        "Calculated MW": 247.68,
+        "Inchi": "InChI=1S/C12H10ClN3O/c13-11-8-10(6-7-14-11)16-12(17)15-9-4-2-1-3-5-9/h1-8H,(H2,14,15,16,17)",
+        "Spectrum": [
+            {
+                "m/z value": "66",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "76",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccncc1",
+                "Token": "13",
+                "Calculated MW": 94.12
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "61.961962",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "9.409409",
+                "Fragment": "C(=O)Nc1ccnc(Cl)c1",
+                "Token": "15",
+                "Calculated MW": 156.57
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "1",
+        "Calculated MW": 247.68,
+        "Inchi": "InChI=1S/C12H10ClN3O/c13-11-8-10(6-7-14-11)16-12(17)15-9-4-2-1-3-5-9/h1-8H,(H2,14,15,16,17)",
+        "Spectrum": [
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "17.217217",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Nc1ccncc1",
+                "Token": "13",
+                "Calculated MW": 94.12
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "16.816817",
+                "Fragment": "C(=O)Nc1ccnc(Cl)c1",
+                "Token": "15",
+                "Calculated MW": 156.57
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "1",
+        "Calculated MW": 247.68,
+        "Inchi": "InChI=1S/C12H10ClN3O/c13-11-8-10(6-7-14-11)16-12(17)15-9-4-2-1-3-5-9/h1-8H,(H2,14,15,16,17)",
+        "Spectrum": [
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccncc1",
+                "Token": "13",
+                "Calculated MW": 94.12
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "42.742743",
+                "Fragment": "Nc1ccnc(Cl)c1",
+                "Token": "6",
+                "Calculated MW": 128.56
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "12.112112",
+                "Fragment": "C(=O)Nc1ccnc(Cl)c1",
+                "Token": "15",
+                "Calculated MW": 156.57
+            },
+            {
+                "m/z value": "248",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "O=C(Nc(c2)cccc2)Nc(c1)cc(Cl)nc1",
+                "Token": "1",
+                "Calculated MW": 247.68
+            },
+            {
+                "m/z value": "249",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "O=C(Nc(c2)cccc2)Nc(c1)cc(Cl)nc1",
+                "Token": "1",
+                "Calculated MW": 247.68
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "51",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "53",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "57",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "59",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "61",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "62",
+                "Rel. Intensity": "39.639640",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "64",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "65",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "75",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "76",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "80",
+                "Rel. Intensity": "14.114114",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "5.505506",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "89",
+                "Rel. Intensity": "32.932933",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "98",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "99",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "45.445445",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "102",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "104",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "69.069069",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "112",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "114",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "41.141141",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "139",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ncc(F)c2ncnn12",
+                "Token": "66",
+                "Calculated MW": 138.1
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "51",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "52",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "57",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "59",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "62",
+                "Rel. Intensity": "40.740741",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "64",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "65",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "70",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "75",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "77",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "80",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "97.297297",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "89",
+                "Rel. Intensity": "40.440440",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "90",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "95",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "98",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "35.335335",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "88.188188",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "111",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "113",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "116",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "120",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1nccc2ncnn12",
+                "Token": "45",
+                "Calculated MW": 120.12
+            },
+            {
+                "m/z value": "122",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1nccc2ncnn12",
+                "Token": "45",
+                "Calculated MW": 120.12
+            },
+            {
+                "m/z value": "125",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "138",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ncc(F)c2ncnn12",
+                "Token": "66",
+                "Calculated MW": 138.1
+            },
+            {
+                "m/z value": "143",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "165",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "51",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "53",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "57",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "62",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "63",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "80",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "18.818819",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "89",
+                "Rel. Intensity": "15.315315",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "16.116116",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "50.550551",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "111",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "113",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "124",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "62",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "89",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "98",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccccc1F",
+                "Token": "55",
+                "Calculated MW": 96.1
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "102",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "18.418418",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "88",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc2c(F)cnc(OC)n2n1",
+                "Token": "24",
+                "Calculated MW": 168.13
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "192",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "S(=O)(=O)Nc1c(F)cccc1F",
+                "Token": "48",
+                "Calculated MW": 193.17
+            },
+            {
+                "m/z value": "296",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "360",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "COC(=N3)n(n1)c(C(F)=C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "21",
+                "Calculated MW": 359.29
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "21",
+        "Calculated MW": 359.29,
+        "Inchi": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "9.809810",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "192",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "S(=O)(=O)Nc1c(F)cccc1F",
+                "Token": "48",
+                "Calculated MW": 193.17
+            },
+            {
+                "m/z value": "360",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "COC(=N3)n(n1)c(C(F)=C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "21",
+                "Calculated MW": 359.29
+            },
+            {
+                "m/z value": "361",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "COC(=N3)n(n1)c(C(F)=C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "21",
+                "Calculated MW": 359.29
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "50.150150",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "105",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "11.411411",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "94.494494",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1c(F)cccc1F",
+                "Token": "23",
+                "Calculated MW": 114.09
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccn2ncnc2n1",
+                "Token": "76",
+                "Calculated MW": 120.11
+            },
+            {
+                "m/z value": "123",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "147",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "16.116116",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "105",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "37.237237",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1ccccc1F",
+                "Token": "31",
+                "Calculated MW": 111.12
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccn2ncnc2n1",
+                "Token": "76",
+                "Calculated MW": 120.11
+            },
+            {
+                "m/z value": "123",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "66",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "80",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "82",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "S(=O)(=O)N",
+                "Token": "27",
+                "Calculated MW": 81.1
+            },
+            {
+                "m/z value": "88",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "102",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "106",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "12.512513",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "124",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "135",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "66",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "106",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "135",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "201",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccn2nc(S(=O)(=O)N)nc2n1",
+                "Token": "74",
+                "Calculated MW": 199.19
+            },
+            {
+                "m/z value": "262",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "130",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "c1nc2nc(C)ccn2n1",
+                "Token": "78",
+                "Calculated MW": 134.14
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "182",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "192",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "S(=O)(=O)Nc1c(F)cccc1F",
+                "Token": "48",
+                "Calculated MW": 193.17
+            },
+            {
+                "m/z value": "197",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "S(=O)(=O)c1nc2nc(C)ccn2n1",
+                "Token": "73",
+                "Calculated MW": 198.21
+            },
+            {
+                "m/z value": "242",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "262",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "326",
+                "Rel. Intensity": "14.914915",
+                "Fragment": "CC(C=3)=Nc(n1)n(C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "68",
+                "Calculated MW": 325.3
+            },
+            {
+                "m/z value": "327",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "CC(C=3)=Nc(n1)n(C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "68",
+                "Calculated MW": 325.3
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "68",
+        "Calculated MW": 325.3,
+        "Inchi": "InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Nc1c(F)cccc1F",
+                "Token": "37",
+                "Calculated MW": 129.11
+            },
+            {
+                "m/z value": "326",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "CC(C=3)=Nc(n1)n(C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "68",
+                "Calculated MW": 325.3
+            },
+            {
+                "m/z value": "327",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "CC(C=3)=Nc(n1)n(C3)nc1S(=O)(=O)Nc(c(F)2)c(F)ccc2",
+                "Token": "68",
+                "Calculated MW": 325.3
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "80",
+        "Calculated MW": 361.7,
+        "Inchi": "InChI=1S/C15H11ClF3NO4/c1-8(14(21)22)23-10-2-4-11(5-3-10)24-13-12(16)6-9(7-20-13)15(17,18)19/h2-8H,1H3,(H,21,22)",
+        "Spectrum": [
+            {
+                "m/z value": "55",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "63",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "65",
+                "Rel. Intensity": "18.818819",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(C)C(=O)O",
+                "Token": "108",
+                "Calculated MW": 74.08
+            },
+            {
+                "m/z value": "75",
+                "Rel. Intensity": "5.505506",
+                "Fragment": "C(C)C(=O)O",
+                "Token": "108",
+                "Calculated MW": 74.08
+            },
+            {
+                "m/z value": "76",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(O)C(=O)O",
+                "Token": "85",
+                "Calculated MW": 76.05
+            },
+            {
+                "m/z value": "81",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "c1ncccc1",
+                "Token": "130",
+                "Calculated MW": 79.1
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "92",
+                "Rel. Intensity": "13.313313",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1ccc(O)cc1",
+                "Token": "137",
+                "Calculated MW": 94.11
+            },
+            {
+                "m/z value": "107",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "COc1ccccc1",
+                "Token": "175",
+                "Calculated MW": 108.14
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "COc1ccccc1",
+                "Token": "175",
+                "Calculated MW": 108.14
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "121",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "C(C)Oc1ccccc1",
+                "Token": "127",
+                "Calculated MW": 122.17
+            },
+            {
+                "m/z value": "139",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(C)Oc1ccc(O)cc1",
+                "Token": "81",
+                "Calculated MW": 138.17
+            },
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "159",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "175",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "178",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Oc1ncc(C(F)F)cc1Cl",
+                "Token": "94",
+                "Calculated MW": 179.55
+            },
+            {
+                "m/z value": "180",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "Oc1ncc(C(F)F)cc1Cl",
+                "Token": "94",
+                "Calculated MW": 179.55
+            },
+            {
+                "m/z value": "182",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Oc1ccc(OC(C)C(=O)O)cc1",
+                "Token": "86",
+                "Calculated MW": 182.18
+            },
+            {
+                "m/z value": "189",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Oc1ccc(Oc2ncccc2)cc1",
+                "Token": "105",
+                "Calculated MW": 187.2
+            },
+            {
+                "m/z value": "190",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "192",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "198",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Oc1ncc(C(F)(F)F)cc1Cl",
+                "Token": "159",
+                "Calculated MW": 197.54
+            },
+            {
+                "m/z value": "203",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "206",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "c1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "160",
+                "Calculated MW": 205.64
+            },
+            {
+                "m/z value": "209",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "C(C)Oc1ccc(Oc2ncccc2)cc1",
+                "Token": "92",
+                "Calculated MW": 215.25
+            },
+            {
+                "m/z value": "218",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "219",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "222",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Oc1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "166",
+                "Calculated MW": 221.64
+            },
+            {
+                "m/z value": "224",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "226",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "232",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "235",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "COc1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "90",
+                "Calculated MW": 235.67
+            },
+            {
+                "m/z value": "237",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)F)cc2)cc1",
+                "Token": "162",
+                "Calculated MW": 237.21
+            },
+            {
+                "m/z value": "245",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(Oc1ccc(Oc2ncccc2)cc1)C(=O)O",
+                "Token": "106",
+                "Calculated MW": 245.23
+            },
+            {
+                "m/z value": "252",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "Oc1ccc(Oc2ncc(CF)cc2Cl)cc1",
+                "Token": "95",
+                "Calculated MW": 253.66
+            },
+            {
+                "m/z value": "254",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Oc1ccc(Oc2ncc(CF)cc2Cl)cc1",
+                "Token": "95",
+                "Calculated MW": 253.66
+            },
+            {
+                "m/z value": "261",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "c1cccnc1Oc1ccc(OC(C)C(=O)O)cc1",
+                "Token": "129",
+                "Calculated MW": 259.26
+            },
+            {
+                "m/z value": "270",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "COc1ccc(Oc2ncc(C(F)(F)F)cc2)cc1",
+                "Token": "122",
+                "Calculated MW": 269.22
+            },
+            {
+                "m/z value": "272",
+                "Rel. Intensity": "34.534535",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)F)cc2Cl)cc1",
+                "Token": "123",
+                "Calculated MW": 271.65
+            },
+            {
+                "m/z value": "273",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "110",
+                "Calculated MW": 273.64
+            },
+            {
+                "m/z value": "288",
+                "Rel. Intensity": "32.132132",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            },
+            {
+                "m/z value": "289",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "80",
+        "Calculated MW": 361.7,
+        "Inchi": "InChI=1S/C15H11ClF3NO4/c1-8(14(21)22)23-10-2-4-11(5-3-10)24-13-12(16)6-9(7-20-13)15(17,18)19/h2-8H,1H3,(H,21,22)",
+        "Spectrum": [
+            {
+                "m/z value": "55",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "65",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "92",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "COc1ccccc1",
+                "Token": "175",
+                "Calculated MW": 108.14
+            },
+            {
+                "m/z value": "119",
+                "Rel. Intensity": "14.514515",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "121",
+                "Rel. Intensity": "10.610611",
+                "Fragment": "C(C)Oc1ccccc1",
+                "Token": "127",
+                "Calculated MW": 122.17
+            },
+            {
+                "m/z value": "198",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Oc1ncc(C(F)(F)F)cc1Cl",
+                "Token": "159",
+                "Calculated MW": 197.54
+            },
+            {
+                "m/z value": "206",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "160",
+                "Calculated MW": 205.64
+            },
+            {
+                "m/z value": "209",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "219",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "226",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "232",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "235",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "COc1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "90",
+                "Calculated MW": 235.67
+            },
+            {
+                "m/z value": "245",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(Oc1ccc(Oc2ncccc2)cc1)C(=O)O",
+                "Token": "106",
+                "Calculated MW": 245.23
+            },
+            {
+                "m/z value": "247",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "C(Oc1ccc(Oc2ncccc2)cc1)C(=O)O",
+                "Token": "106",
+                "Calculated MW": 245.23
+            },
+            {
+                "m/z value": "249",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(C)Oc1ccc(Oc2ncccc2Cl)cc1",
+                "Token": "128",
+                "Calculated MW": 249.7
+            },
+            {
+                "m/z value": "252",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Oc1ccc(Oc2ncc(CF)cc2Cl)cc1",
+                "Token": "95",
+                "Calculated MW": 253.66
+            },
+            {
+                "m/z value": "253",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1ccc(Oc2ncc(CF)cc2Cl)cc1",
+                "Token": "95",
+                "Calculated MW": 253.66
+            },
+            {
+                "m/z value": "260",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "c1cccnc1Oc1ccc(OC(C)C(=O)O)cc1",
+                "Token": "129",
+                "Calculated MW": 259.26
+            },
+            {
+                "m/z value": "270",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "COc1ccc(Oc2ncc(C(F)(F)F)cc2)cc1",
+                "Token": "122",
+                "Calculated MW": 269.22
+            },
+            {
+                "m/z value": "272",
+                "Rel. Intensity": "25.925926",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)F)cc2Cl)cc1",
+                "Token": "123",
+                "Calculated MW": 271.65
+            },
+            {
+                "m/z value": "273",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "110",
+                "Calculated MW": 273.64
+            },
+            {
+                "m/z value": "288",
+                "Rel. Intensity": "31.331331",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            },
+            {
+                "m/z value": "290",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            },
+            {
+                "m/z value": "316",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "118",
+                "Calculated MW": 317.69
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "80",
+        "Calculated MW": 361.7,
+        "Inchi": "InChI=1S/C15H11ClF3NO4/c1-8(14(21)22)23-10-2-4-11(5-3-10)24-13-12(16)6-9(7-20-13)15(17,18)19/h2-8H,1H3,(H,21,22)",
+        "Spectrum": [
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "31.731732",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "92",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "OC(C)C(=O)O",
+                "Token": "112",
+                "Calculated MW": 90.08
+            },
+            {
+                "m/z value": "118",
+                "Rel. Intensity": "7.407407",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "120",
+                "Rel. Intensity": "8.608609",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "198",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1ncc(C(F)(F)F)cc1Cl",
+                "Token": "159",
+                "Calculated MW": 197.54
+            },
+            {
+                "m/z value": "247",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(Oc1ccc(Oc2ncccc2)cc1)C(=O)O",
+                "Token": "106",
+                "Calculated MW": 245.23
+            },
+            {
+                "m/z value": "260",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cccnc1Oc1ccc(OC(C)C(=O)O)cc1",
+                "Token": "129",
+                "Calculated MW": 259.26
+            },
+            {
+                "m/z value": "272",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)F)cc2Cl)cc1",
+                "Token": "123",
+                "Calculated MW": 271.65
+            },
+            {
+                "m/z value": "288",
+                "Rel. Intensity": "33.733734",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            },
+            {
+                "m/z value": "290",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "145",
+                "Calculated MW": 289.64
+            },
+            {
+                "m/z value": "316",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "118",
+                "Calculated MW": 317.69
+            },
+            {
+                "m/z value": "317",
+                "Rel. Intensity": "5.505506",
+                "Fragment": "C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "118",
+                "Calculated MW": 317.69
+            },
+            {
+                "m/z value": "362",
+                "Rel. Intensity": "11.411411",
+                "Fragment": "OC(=O)C(C)Oc(c2)ccc(c2)Oc(n1)c(Cl)cc(c1)C(F)(F)F",
+                "Token": "80",
+                "Calculated MW": 361.7
+            },
+            {
+                "m/z value": "363",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "OC(=O)C(C)Oc(c2)ccc(c2)Oc(n1)c(Cl)cc(c1)C(F)(F)F",
+                "Token": "80",
+                "Calculated MW": 361.7
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "80",
+        "Calculated MW": 361.7,
+        "Inchi": "InChI=1S/C15H11ClF3NO4/c1-8(14(21)22)23-10-2-4-11(5-3-10)24-13-12(16)6-9(7-20-13)15(17,18)19/h2-8H,1H3,(H,21,22)",
+        "Spectrum": [
+            {
+                "m/z value": "316",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1",
+                "Token": "118",
+                "Calculated MW": 317.69
+            },
+            {
+                "m/z value": "362",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "OC(=O)C(C)Oc(c2)ccc(c2)Oc(n1)c(Cl)cc(c1)C(F)(F)F",
+                "Token": "80",
+                "Calculated MW": 361.7
+            },
+            {
+                "m/z value": "363",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "OC(=O)C(C)Oc(c2)ccc(c2)Oc(n1)c(Cl)cc(c1)C(F)(F)F",
+                "Token": "80",
+                "Calculated MW": 361.7
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "55",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "16.816817",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "80",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ncncn1",
+                "Token": "207",
+                "Calculated MW": 81.08
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "OCC(F)F",
+                "Token": "345",
+                "Calculated MW": 82.05
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "c1cccc(C)c1",
+                "Token": "264",
+                "Calculated MW": 92.14
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1ncncn1",
+                "Token": "241",
+                "Calculated MW": 96.09
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "c1ncnc(O)n1",
+                "Token": "363",
+                "Calculated MW": 97.08
+            },
+            {
+                "m/z value": "104",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "106",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)c1ccccc1",
+                "Token": "221",
+                "Calculated MW": 106.12
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ncnc(OC)n1",
+                "Token": "362",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "138",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NC(=O)Nc1ncncn1",
+                "Token": "217",
+                "Calculated MW": 139.12
+            },
+            {
+                "m/z value": "149",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "151",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "152",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)Nc1ncnc(NC)n1",
+                "Token": "234",
+                "Calculated MW": 153.15
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "Nc1ncnc(OCC(F)F)n1",
+                "Token": "328",
+                "Calculated MW": 176.13
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "15.715716",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "c1cccc(C)c1",
+                "Token": "264",
+                "Calculated MW": 92.14
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cccc(C)c1",
+                "Token": "264",
+                "Calculated MW": 92.14
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1ncncn1",
+                "Token": "241",
+                "Calculated MW": 96.09
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ncnc(O)n1",
+                "Token": "363",
+                "Calculated MW": 97.08
+            },
+            {
+                "m/z value": "106",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1ccccc1",
+                "Token": "221",
+                "Calculated MW": 106.12
+            },
+            {
+                "m/z value": "114",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Nc1ncnc(O)n1",
+                "Token": "327",
+                "Calculated MW": 112.09
+            },
+            {
+                "m/z value": "133",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "138",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "NC(=O)Nc1ncncn1",
+                "Token": "217",
+                "Calculated MW": 139.12
+            },
+            {
+                "m/z value": "149",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "151",
+                "Rel. Intensity": "7.407407",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)Nc1ncnc(NC)n1",
+                "Token": "234",
+                "Calculated MW": 153.15
+            },
+            {
+                "m/z value": "166",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)Nc1ncnc(N(C)C)n1",
+                "Token": "245",
+                "Calculated MW": 167.17
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "Nc1ncnc(OCC(F)F)n1",
+                "Token": "328",
+                "Calculated MW": 176.13
+            },
+            {
+                "m/z value": "182",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NC(=O)Nc1ncnc(N(C)C)n1",
+                "Token": "299",
+                "Calculated MW": 182.19
+            },
+            {
+                "m/z value": "221",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)Nc1ncnc(OCC(F)(F)F)n1",
+                "Token": "273",
+                "Calculated MW": 222.13
+            },
+            {
+                "m/z value": "238",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "372",
+                "Calculated MW": 237.18
+            },
+            {
+                "m/z value": "244",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "OC(=O)c1ccccc1S(=O)(=O)NC(=O)N",
+                "Token": "179",
+                "Calculated MW": 244.23
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "30.230230",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "11.011011",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1cccc(C)c1",
+                "Token": "264",
+                "Calculated MW": 92.14
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "55.655656",
+                "Fragment": "Nc1ncncn1",
+                "Token": "241",
+                "Calculated MW": 96.09
+            },
+            {
+                "m/z value": "134",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "138",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "NC(=O)Nc1ncncn1",
+                "Token": "217",
+                "Calculated MW": 139.12
+            },
+            {
+                "m/z value": "149",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "151",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)Nc1ncnc(NC)n1",
+                "Token": "234",
+                "Calculated MW": 153.15
+            },
+            {
+                "m/z value": "164",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "Nc1ncnc(OCC(F)F)n1",
+                "Token": "328",
+                "Calculated MW": 176.13
+            },
+            {
+                "m/z value": "213",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1ccccc1S(=O)(=O)NC=O",
+                "Token": "336",
+                "Calculated MW": 213.21
+            },
+            {
+                "m/z value": "221",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=O)Nc1ncnc(OCC(F)(F)F)n1",
+                "Token": "273",
+                "Calculated MW": 222.13
+            },
+            {
+                "m/z value": "238",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "372",
+                "Calculated MW": 237.18
+            },
+            {
+                "m/z value": "244",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "OC(=O)c1ccccc1S(=O)(=O)NC(=O)N",
+                "Token": "179",
+                "Calculated MW": 244.23
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(F)(F)F",
+                "Token": "143",
+                "Calculated MW": 70.01
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "Nc1ncncn1",
+                "Token": "241",
+                "Calculated MW": 96.09
+            },
+            {
+                "m/z value": "149",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1c(C)cccc1C(=O)OC",
+                "Token": "424",
+                "Calculated MW": 150.18
+            },
+            {
+                "m/z value": "213",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)c1ccccc1S(=O)(=O)NC=O",
+                "Token": "336",
+                "Calculated MW": 213.21
+            },
+            {
+                "m/z value": "238",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "372",
+                "Calculated MW": 237.18
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "213",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1ccccc1S(=O)(=O)NC=O",
+                "Token": "336",
+                "Calculated MW": 213.21
+            },
+            {
+                "m/z value": "238",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "372",
+                "Calculated MW": 237.18
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "493",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "COC(=O)c(c2)c(c(C)cc2)S(=O)(=O)NC(=O)Nc(n1)nc(OCC(F)(F)F)nc(N(C)C)1",
+                "Token": "176",
+                "Calculated MW": 492.44
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "176",
+        "Calculated MW": 492.44,
+        "Inchi": "InChI=1S/C17H19F3N6O6S/c1-9-6-5-7-10(12(27)31-4)11(9)33(29,30)25-15(28)22-13-21-14(26(2)3)24-16(23-13)32-8-17(18,19)20/h5-7H,8H2,1-4H3,(H2,21,22,23,24,25,28)",
+        "Spectrum": [
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "23.523524",
+                "Fragment": "C(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1",
+                "Token": "223",
+                "Calculated MW": 265.19
+            },
+            {
+                "m/z value": "461",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "C(F)(F)COc1nc(NC(=O)NS(=O)(=O)c2c(C)cccc2C(=O)OC)nc(NC)n1",
+                "Token": "374",
+                "Calculated MW": 460.42
+            },
+            {
+                "m/z value": "493",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "COC(=O)c(c2)c(c(C)cc2)S(=O)(=O)NC(=O)Nc(n1)nc(OCC(F)(F)F)nc(N(C)C)1",
+                "Token": "176",
+                "Calculated MW": 492.44
+            },
+            {
+                "m/z value": "495",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "425",
+        "Calculated MW": 387.4,
+        "Inchi": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,13,14,15,16,17,19)",
+        "Spectrum": [
+            {
+                "m/z value": "53",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "55",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "56",
+                "Rel. Intensity": "57.257257",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "58",
+                "Rel. Intensity": "69.369369",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "59",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)OC",
+                "Token": "326",
+                "Calculated MW": 60.05
+            },
+            {
+                "m/z value": "64",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)=O",
+                "Token": "38",
+                "Calculated MW": 64.06
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "32.132132",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "70",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "79",
+                "Rel. Intensity": "23.523524",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "81",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ncncn1",
+                "Token": "207",
+                "Calculated MW": 81.08
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "50.950951",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "95",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ncnc(C)n1",
+                "Token": "479",
+                "Calculated MW": 95.1
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ncnc(N)n1",
+                "Token": "482",
+                "Calculated MW": 96.09
+            },
+            {
+                "m/z value": "98",
+                "Rel. Intensity": "25.925926",
+                "Fragment": "Oc1ncncn1",
+                "Token": "496",
+                "Calculated MW": 97.08
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)NS(=O)=O",
+                "Token": "452",
+                "Calculated MW": 109.11
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)NS(=O)=O",
+                "Token": "452",
+                "Calculated MW": 109.11
+            },
+            {
+                "m/z value": "111",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "c1ncnc(OC)n1",
+                "Token": "324",
+                "Calculated MW": 111.1
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "123",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1ncnc(NC=O)n1",
+                "Token": "436",
+                "Calculated MW": 124.1
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "c1nc(N)nc(OC)n1",
+                "Token": "499",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1nc(C)nc(N)n1",
+                "Token": "432",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "18.418418",
+                "Fragment": "Nc1nc(C)nc(OC)n1",
+                "Token": "488",
+                "Calculated MW": 140.15
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccsc1C(=O)OC",
+                "Token": "451",
+                "Calculated MW": 142.18
+            },
+            {
+                "m/z value": "152",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1nc(C)nc(NC(=O)N)n1",
+                "Token": "465",
+                "Calculated MW": 153.14
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "22.322322",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "175",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "S(=O)(=O)c1ccsc1C=O",
+                "Token": "487",
+                "Calculated MW": 176.22
+            },
+            {
+                "m/z value": "191",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "NS(=O)(=O)c1ccsc1C=O",
+                "Token": "431",
+                "Calculated MW": 191.23
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            },
+            {
+                "m/z value": "207",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "NS(=O)(=O)c1ccsc1C(=O)O",
+                "Token": "458",
+                "Calculated MW": 207.23
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc(C)nc(NC(=O)NS(=O)=O)n1",
+                "Token": "426",
+                "Calculated MW": 217.21
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "425",
+        "Calculated MW": 387.4,
+        "Inchi": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,13,14,15,16,17,19)",
+        "Spectrum": [
+            {
+                "m/z value": "56",
+                "Rel. Intensity": "58.858859",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "58",
+                "Rel. Intensity": "41.141141",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "59",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)OC",
+                "Token": "326",
+                "Calculated MW": 60.05
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "20.020020",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "70",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "17.217217",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "64.664665",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "9.409409",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "98",
+                "Rel. Intensity": "7.407407",
+                "Fragment": "Oc1ncncn1",
+                "Token": "496",
+                "Calculated MW": 97.08
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "108",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)NS(=O)=O",
+                "Token": "452",
+                "Calculated MW": 109.11
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1nc(C)nc(N)n1",
+                "Token": "490",
+                "Calculated MW": 110.12
+            },
+            {
+                "m/z value": "113",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccsc1C=O",
+                "Token": "445",
+                "Calculated MW": 112.15
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "124",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ncnc(NC=O)n1",
+                "Token": "436",
+                "Calculated MW": 124.1
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "73.773774",
+                "Fragment": "c1nc(N)nc(OC)n1",
+                "Token": "499",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "Oc1nc(C)nc(N)n1",
+                "Token": "432",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "42.742743",
+                "Fragment": "Nc1nc(C)nc(OC)n1",
+                "Token": "488",
+                "Calculated MW": 140.15
+            },
+            {
+                "m/z value": "143",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccsc1C(=O)OC",
+                "Token": "451",
+                "Calculated MW": 142.18
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "175",
+                "Rel. Intensity": "19.219219",
+                "Fragment": "S(=O)(=O)c1ccsc1C=O",
+                "Token": "487",
+                "Calculated MW": 176.22
+            },
+            {
+                "m/z value": "190",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "NS(=O)(=O)c1ccsc1C=O",
+                "Token": "431",
+                "Calculated MW": 191.23
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "45.445445",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            },
+            {
+                "m/z value": "207",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "NS(=O)(=O)c1ccsc1C(=O)O",
+                "Token": "458",
+                "Calculated MW": 207.23
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1nc(C)nc(NC(=O)NS(=O)=O)n1",
+                "Token": "426",
+                "Calculated MW": 217.21
+            },
+            {
+                "m/z value": "251",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NC(=O)NS(=O)(=O)c1ccsc1C(=O)O",
+                "Token": "497",
+                "Calculated MW": 250.26
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "425",
+        "Calculated MW": 387.4,
+        "Inchi": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,13,14,15,16,17,19)",
+        "Spectrum": [
+            {
+                "m/z value": "56",
+                "Rel. Intensity": "9.809810",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "58",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1ccsc1",
+                "Token": "468",
+                "Calculated MW": 84.14
+            },
+            {
+                "m/z value": "110",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc(C)nc(N)n1",
+                "Token": "490",
+                "Calculated MW": 110.12
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1nc(N)nc(OC)n1",
+                "Token": "499",
+                "Calculated MW": 126.12
+            },
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "17.217217",
+                "Fragment": "Nc1nc(C)nc(OC)n1",
+                "Token": "488",
+                "Calculated MW": 140.15
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "175",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "S(=O)(=O)c1ccsc1C=O",
+                "Token": "487",
+                "Calculated MW": 176.22
+            },
+            {
+                "m/z value": "190",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NS(=O)(=O)c1ccsc1C=O",
+                "Token": "431",
+                "Calculated MW": 191.23
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "34.934935",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            },
+            {
+                "m/z value": "206",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc(C)nc(NC(=O)NS(=O)=O)n1",
+                "Token": "426",
+                "Calculated MW": 217.21
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "425",
+        "Calculated MW": 387.4,
+        "Inchi": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,13,14,15,16,17,19)",
+        "Spectrum": [
+            {
+                "m/z value": "56",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "12.912913",
+                "Fragment": "Nc1nc(C)nc(OC)n1",
+                "Token": "488",
+                "Calculated MW": 140.15
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "10.210210",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "425",
+        "Calculated MW": 387.4,
+        "Inchi": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,13,14,15,16,17,19)",
+        "Spectrum": [
+            {
+                "m/z value": "141",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "Nc1nc(C)nc(OC)n1",
+                "Token": "488",
+                "Calculated MW": 140.15
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)Nc1nc(C)nc(OC)n1",
+                "Token": "455",
+                "Calculated MW": 168.16
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)(=O)c1ccsc1C(=O)OC",
+                "Token": "446",
+                "Calculated MW": 206.24
+            },
+            {
+                "m/z value": "388",
+                "Rel. Intensity": "85.085085",
+                "Fragment": "COc(n2)nc(nc(C)2)NC(=O)NS(=O)(=O)c(c1)c(sc1)C(=O)OC",
+                "Token": "425",
+                "Calculated MW": 387.4
+            },
+            {
+                "m/z value": "389",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "COc(n2)nc(nc(C)2)NC(=O)NS(=O)(=O)c(c1)c(sc1)C(=O)OC",
+                "Token": "425",
+                "Calculated MW": 387.4
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "500",
+        "Calculated MW": 220.26,
+        "Inchi": "InChI=1S/C9H8N4OS/c14-9(12-8-6-10-13-15-8)11-7-4-2-1-3-5-7/h1-6H,(H2,11,12,14)",
+        "Spectrum": [
+            {
+                "m/z value": "51",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "56",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "60",
+                "Rel. Intensity": "25.925926",
+                "Fragment": "NC(=O)N",
+                "Token": "2",
+                "Calculated MW": 60.06
+            },
+            {
+                "m/z value": "65",
+                "Rel. Intensity": "11.811812",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "25.925926",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "77",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "78",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "85",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "c1cnns1",
+                "Token": "504",
+                "Calculated MW": 86.12
+            },
+            {
+                "m/z value": "92",
+                "Rel. Intensity": "32.932933",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "93",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "102",
+                "Rel. Intensity": "67.867868",
+                "Fragment": "Nc1cnns1",
+                "Token": "503",
+                "Calculated MW": 101.13
+            },
+            {
+                "m/z value": "120",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)Nc1ccccc1",
+                "Token": "10",
+                "Calculated MW": 121.14
+            },
+            {
+                "m/z value": "128",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "C(=O)Nc1cnns1",
+                "Token": "502",
+                "Calculated MW": 129.14
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "500",
+        "Calculated MW": 220.26,
+        "Inchi": "InChI=1S/C9H8N4OS/c14-9(12-8-6-10-13-15-8)11-7-4-2-1-3-5-7/h1-6H,(H2,11,12,14)",
+        "Spectrum": [
+            {
+                "m/z value": "60",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "NC(=O)N",
+                "Token": "2",
+                "Calculated MW": 60.06
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "77",
+                "Rel. Intensity": "17.217217",
+                "Fragment": "c1ccccc1",
+                "Token": "18",
+                "Calculated MW": 78.11
+            },
+            {
+                "m/z value": "92",
+                "Rel. Intensity": "13.713714",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "102",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1cnns1",
+                "Token": "503",
+                "Calculated MW": 101.13
+            },
+            {
+                "m/z value": "120",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "C(=O)Nc1ccccc1",
+                "Token": "10",
+                "Calculated MW": 121.14
+            },
+            {
+                "m/z value": "128",
+                "Rel. Intensity": "12.112112",
+                "Fragment": "C(=O)Nc1cnns1",
+                "Token": "502",
+                "Calculated MW": 129.14
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "500",
+        "Calculated MW": 220.26,
+        "Inchi": "InChI=1S/C9H8N4OS/c14-9(12-8-6-10-13-15-8)11-7-4-2-1-3-5-7/h1-6H,(H2,11,12,14)",
+        "Spectrum": [
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "91",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1cnns1",
+                "Token": "503",
+                "Calculated MW": 101.13
+            },
+            {
+                "m/z value": "120",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)Nc1ccccc1",
+                "Token": "10",
+                "Calculated MW": 121.14
+            },
+            {
+                "m/z value": "127",
+                "Rel. Intensity": "10.210210",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "221",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "O=C(Nc(c2)cccc2)Nc(c1)snn1",
+                "Token": "500",
+                "Calculated MW": 220.26
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "500",
+        "Calculated MW": 220.26,
+        "Inchi": "InChI=1S/C9H8N4OS/c14-9(12-8-6-10-13-15-8)11-7-4-2-1-3-5-7/h1-6H,(H2,11,12,14)",
+        "Spectrum": [
+            {
+                "m/z value": "94",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "Nc1ccccc1",
+                "Token": "17",
+                "Calculated MW": 93.13
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "61.161161",
+                "Fragment": "Nc1cnns1",
+                "Token": "503",
+                "Calculated MW": 101.13
+            },
+            {
+                "m/z value": "128",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "C(=O)Nc1cnns1",
+                "Token": "502",
+                "Calculated MW": 129.14
+            },
+            {
+                "m/z value": "221",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "O=C(Nc(c2)cccc2)Nc(c1)snn1",
+                "Token": "500",
+                "Calculated MW": 220.26
+            },
+            {
+                "m/z value": "222",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "O=C(Nc(c2)cccc2)Nc(c1)snn1",
+                "Token": "500",
+                "Calculated MW": 220.26
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "505",
+        "Calculated MW": 406.23,
+        "Inchi": "InChI=1S/C13H10Cl2FN5O3S/c1-2-24-13-17-9(16)6-10-18-12(19-21(10)13)25(22,23)20-11-7(14)4-3-5-8(11)15/h3-6,20H,2H2,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "90",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "125",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "161",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "162",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "505",
+        "Calculated MW": 406.23,
+        "Inchi": "InChI=1S/C13H10Cl2FN5O3S/c1-2-24-13-17-9(16)6-10-18-12(19-21(10)13)25(22,23)20-11-7(14)4-3-5-8(11)15/h3-6,20H,2H2,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "161",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "162",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "505",
+        "Calculated MW": 406.23,
+        "Inchi": "InChI=1S/C13H10Cl2FN5O3S/c1-2-24-13-17-9(16)6-10-18-12(19-21(10)13)25(22,23)20-11-7(14)4-3-5-8(11)15/h3-6,20H,2H2,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "161",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "162",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "176",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "224",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "314",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "378",
+                "Rel. Intensity": "12.912913",
+                "Fragment": "Oc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3Cl)nn12",
+                "Token": "528",
+                "Calculated MW": 378.17
+            },
+            {
+                "m/z value": "406",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(Cl)ccc2",
+                "Token": "505",
+                "Calculated MW": 406.23
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "505",
+        "Calculated MW": 406.23,
+        "Inchi": "InChI=1S/C13H10Cl2FN5O3S/c1-2-24-13-17-9(16)6-10-18-12(19-21(10)13)25(22,23)20-11-7(14)4-3-5-8(11)15/h3-6,20H,2H2,1H3",
+        "Spectrum": [
+            {
+                "m/z value": "161",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "Nc1c(Cl)cccc1Cl",
+                "Token": "506",
+                "Calculated MW": 162.02
+            },
+            {
+                "m/z value": "378",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "Oc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3Cl)nn12",
+                "Token": "528",
+                "Calculated MW": 378.17
+            },
+            {
+                "m/z value": "406",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(Cl)ccc2",
+                "Token": "505",
+                "Calculated MW": 406.23
+            },
+            {
+                "m/z value": "407",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(Cl)ccc2",
+                "Token": "505",
+                "Calculated MW": 406.23
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "551",
+        "Calculated MW": 429.82,
+        "Inchi": "InChI=1S/C15H13ClFN5O5S/c1-3-27-15-18-10(17)7-11-19-14(20-22(11)15)28(24,25)21-12-8(13(23)26-2)5-4-6-9(12)16/h4-7,21H,3H2,1-2H3",
+        "Spectrum": [
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "74",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "90",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "101",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "103",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "109",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "111",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "c1ccccc1Cl",
+                "Token": "527",
+                "Calculated MW": 112.56
+            },
+            {
+                "m/z value": "113",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "c1ccccc1Cl",
+                "Token": "527",
+                "Calculated MW": 112.56
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "117",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "123",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1ccccc1C(=O)O",
+                "Token": "605",
+                "Calculated MW": 122.12
+            },
+            {
+                "m/z value": "124",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "c1ccccc1C(=O)O",
+                "Token": "605",
+                "Calculated MW": 122.12
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccccc1Cl",
+                "Token": "514",
+                "Calculated MW": 127.57
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Nc1ccccc1Cl",
+                "Token": "514",
+                "Calculated MW": 127.57
+            },
+            {
+                "m/z value": "131",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "136",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "Oc1nccc2ncnn12",
+                "Token": "56",
+                "Calculated MW": 136.11
+            },
+            {
+                "m/z value": "137",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccccc1C(=O)O",
+                "Token": "560",
+                "Calculated MW": 137.14
+            },
+            {
+                "m/z value": "139",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1nc(F)cc2ncnn12",
+                "Token": "529",
+                "Calculated MW": 138.1
+            },
+            {
+                "m/z value": "143",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "147",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "150",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "COc1nccc2ncnn12",
+                "Token": "522",
+                "Calculated MW": 150.14
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Oc1nc(F)cc2ncnn12",
+                "Token": "542",
+                "Calculated MW": 154.1
+            },
+            {
+                "m/z value": "154",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "Oc1nc(F)cc2ncnn12",
+                "Token": "542",
+                "Calculated MW": 154.1
+            },
+            {
+                "m/z value": "157",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "S(=O)(=O)Nc1ccccc1",
+                "Token": "34",
+                "Calculated MW": 157.19
+            },
+            {
+                "m/z value": "159",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)(=O)Nc1ccccc1",
+                "Token": "34",
+                "Calculated MW": 157.19
+            },
+            {
+                "m/z value": "164",
+                "Rel. Intensity": "27.427427",
+                "Fragment": "c1cc2ncnn2c(OCC)n1",
+                "Token": "547",
+                "Calculated MW": 164.17
+            },
+            {
+                "m/z value": "165",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1cc2ncnn2c(OCC)n1",
+                "Token": "547",
+                "Calculated MW": 164.17
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "21.521522",
+                "Fragment": "COc1nc(F)cc2ncnn12",
+                "Token": "548",
+                "Calculated MW": 168.13
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "COc1nc(F)cc2ncnn12",
+                "Token": "548",
+                "Calculated MW": 168.13
+            },
+            {
+                "m/z value": "172",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "Nc1c(Cl)cccc1C(=O)O",
+                "Token": "581",
+                "Calculated MW": 171.58
+            },
+            {
+                "m/z value": "174",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "179",
+                "Rel. Intensity": "25.525526",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "180",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "185",
+                "Rel. Intensity": "15.715716",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C=O",
+                "Token": "569",
+                "Calculated MW": 185.2
+            },
+            {
+                "m/z value": "186",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Nc1c(Cl)cccc1C(=O)OC",
+                "Token": "563",
+                "Calculated MW": 185.61
+            },
+            {
+                "m/z value": "188",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "194",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "200",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Oc1nccc2nc(S(=O)=O)nn12",
+                "Token": "41",
+                "Calculated MW": 200.18
+            },
+            {
+                "m/z value": "202",
+                "Rel. Intensity": "5.505506",
+                "Fragment": "c1nc(F)cc2nc(S(=O)=O)nn12",
+                "Token": "521",
+                "Calculated MW": 202.17
+            },
+            {
+                "m/z value": "204",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1nc(F)cc2nc(S(=O)=O)nn12",
+                "Token": "521",
+                "Calculated MW": 202.17
+            },
+            {
+                "m/z value": "206",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "215",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1nccc2nc(S(=O)(=O)N)nn12",
+                "Token": "35",
+                "Calculated MW": 215.19
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C(=O)OC",
+                "Token": "596",
+                "Calculated MW": 215.23
+            },
+            {
+                "m/z value": "223",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "230",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "COc1nccc2nc(S(=O)(=O)N)nn12",
+                "Token": "544",
+                "Calculated MW": 229.22
+            },
+            {
+                "m/z value": "236",
+                "Rel. Intensity": "7.107107",
+                "Fragment": "S(=O)(=O)Nc1c(Cl)cccc1C(=O)O",
+                "Token": "599",
+                "Calculated MW": 235.65
+            },
+            {
+                "m/z value": "243",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2nc(S(=O)(=O)N)nn2c(OCC)n1",
+                "Token": "516",
+                "Calculated MW": 243.25
+            },
+            {
+                "m/z value": "251",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)(=O)Nc1c(Cl)cccc1C(=O)OC",
+                "Token": "582",
+                "Calculated MW": 249.67
+            },
+            {
+                "m/z value": "258",
+                "Rel. Intensity": "13.713714",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "260",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "534",
+                "Calculated MW": 261.24
+            },
+            {
+                "m/z value": "263",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "534",
+                "Calculated MW": 261.24
+            },
+            {
+                "m/z value": "271",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "279",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "286",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "306",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "551",
+        "Calculated MW": 429.82,
+        "Inchi": "InChI=1S/C15H13ClFN5O5S/c1-3-27-15-18-10(17)7-11-19-14(20-22(11)15)28(24,25)21-12-8(13(23)26-2)5-4-6-9(12)16/h4-7,21H,3H2,1-2H3",
+        "Spectrum": [
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "74",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "111",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1ccccc1Cl",
+                "Token": "527",
+                "Calculated MW": 112.56
+            },
+            {
+                "m/z value": "113",
+                "Rel. Intensity": "3.903904",
+                "Fragment": "c1ccccc1Cl",
+                "Token": "527",
+                "Calculated MW": 112.56
+            },
+            {
+                "m/z value": "124",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "c1ccccc1C(=O)O",
+                "Token": "605",
+                "Calculated MW": 122.12
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1ccccc1Cl",
+                "Token": "514",
+                "Calculated MW": 127.57
+            },
+            {
+                "m/z value": "138",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1nc(F)cc2ncnn12",
+                "Token": "529",
+                "Calculated MW": 138.1
+            },
+            {
+                "m/z value": "140",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1c(Cl)cccc1C=O",
+                "Token": "566",
+                "Calculated MW": 140.57
+            },
+            {
+                "m/z value": "144",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "147",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "75.275275",
+                "Fragment": "Oc1nc(F)cc2ncnn12",
+                "Token": "542",
+                "Calculated MW": 154.1
+            },
+            {
+                "m/z value": "154",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "Oc1nc(F)cc2ncnn12",
+                "Token": "542",
+                "Calculated MW": 154.1
+            },
+            {
+                "m/z value": "157",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "S(=O)(=O)Nc1ccccc1",
+                "Token": "34",
+                "Calculated MW": 157.19
+            },
+            {
+                "m/z value": "159",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)(=O)Nc1ccccc1",
+                "Token": "34",
+                "Calculated MW": 157.19
+            },
+            {
+                "m/z value": "164",
+                "Rel. Intensity": "11.411411",
+                "Fragment": "c1cc2ncnn2c(OCC)n1",
+                "Token": "547",
+                "Calculated MW": 164.17
+            },
+            {
+                "m/z value": "165",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "c1cc2ncnn2c(OCC)n1",
+                "Token": "547",
+                "Calculated MW": 164.17
+            },
+            {
+                "m/z value": "166",
+                "Rel. Intensity": "24.324324",
+                "Fragment": "c1cc2ncnn2c(OCC)n1",
+                "Token": "547",
+                "Calculated MW": 164.17
+            },
+            {
+                "m/z value": "168",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "COc1nc(F)cc2ncnn12",
+                "Token": "548",
+                "Calculated MW": 168.13
+            },
+            {
+                "m/z value": "171",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "c1c(Cl)cccc1C(=O)OC",
+                "Token": "567",
+                "Calculated MW": 170.59
+            },
+            {
+                "m/z value": "179",
+                "Rel. Intensity": "23.923924",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "181",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "538",
+                "Calculated MW": 182.16
+            },
+            {
+                "m/z value": "185",
+                "Rel. Intensity": "84.684685",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C=O",
+                "Token": "569",
+                "Calculated MW": 185.2
+            },
+            {
+                "m/z value": "187",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "Nc1c(Cl)cccc1C(=O)OC",
+                "Token": "563",
+                "Calculated MW": 185.61
+            },
+            {
+                "m/z value": "194",
+                "Rel. Intensity": "14.914915",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "195",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "200",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "Oc1nccc2nc(S(=O)=O)nn12",
+                "Token": "41",
+                "Calculated MW": 200.18
+            },
+            {
+                "m/z value": "202",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "c1nc(F)cc2nc(S(=O)=O)nn12",
+                "Token": "521",
+                "Calculated MW": 202.17
+            },
+            {
+                "m/z value": "203",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1nc(F)cc2nc(S(=O)=O)nn12",
+                "Token": "521",
+                "Calculated MW": 202.17
+            },
+            {
+                "m/z value": "206",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C(=O)OC",
+                "Token": "596",
+                "Calculated MW": 215.23
+            },
+            {
+                "m/z value": "220",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "S(=O)(=O)Nc1c(Cl)cccc1C=O",
+                "Token": "607",
+                "Calculated MW": 219.65
+            },
+            {
+                "m/z value": "223",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "230",
+                "Rel. Intensity": "15.315315",
+                "Fragment": "COc1nccc2nc(S(=O)(=O)N)nn12",
+                "Token": "544",
+                "Calculated MW": 229.22
+            },
+            {
+                "m/z value": "236",
+                "Rel. Intensity": "10.610611",
+                "Fragment": "S(=O)(=O)Nc1c(Cl)cccc1C(=O)O",
+                "Token": "599",
+                "Calculated MW": 235.65
+            },
+            {
+                "m/z value": "243",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2nc(S(=O)(=O)N)nn2c(OCC)n1",
+                "Token": "516",
+                "Calculated MW": 243.25
+            },
+            {
+                "m/z value": "251",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "S(=O)(=O)Nc1c(Cl)cccc1C(=O)OC",
+                "Token": "582",
+                "Calculated MW": 249.67
+            },
+            {
+                "m/z value": "258",
+                "Rel. Intensity": "57.657658",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "259",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "261",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "534",
+                "Calculated MW": 261.24
+            },
+            {
+                "m/z value": "262",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "534",
+                "Calculated MW": 261.24
+            },
+            {
+                "m/z value": "264",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "271",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "277",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "279",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "286",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "287",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "298",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "306",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "307",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "324",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "COc1nc(F)cc2nc(S(=O)(=O)Nc3ccccc3)nn12",
+                "Token": "545",
+                "Calculated MW": 323.31
+            },
+            {
+                "m/z value": "327",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1nc(F)cc2nc(S(=O)(=O)Nc3ccccc3Cl)nn12",
+                "Token": "526",
+                "Calculated MW": 327.73
+            },
+            {
+                "m/z value": "342",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "Oc1nc(F)cc2nc(S(=O)(=O)Nc3ccccc3Cl)nn12",
+                "Token": "508",
+                "Calculated MW": 343.73
+            },
+            {
+                "m/z value": "370",
+                "Rel. Intensity": "54.154154",
+                "Fragment": "Oc1nccc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn12",
+                "Token": "588",
+                "Calculated MW": 369.75
+            },
+            {
+                "m/z value": "371",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "c1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn12",
+                "Token": "552",
+                "Calculated MW": 371.74
+            },
+            {
+                "m/z value": "398",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn2c(OCC)n1",
+                "Token": "568",
+                "Calculated MW": 397.8
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "551",
+        "Calculated MW": 429.82,
+        "Inchi": "InChI=1S/C15H13ClFN5O5S/c1-3-27-15-18-10(17)7-11-19-14(20-22(11)15)28(24,25)21-12-8(13(23)26-2)5-4-6-9(12)16/h4-7,21H,3H2,1-2H3",
+        "Spectrum": [
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "147",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Oc1nc(F)cc2ncnn12",
+                "Token": "542",
+                "Calculated MW": 154.1
+            },
+            {
+                "m/z value": "185",
+                "Rel. Intensity": "27.827828",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C=O",
+                "Token": "569",
+                "Calculated MW": 185.2
+            },
+            {
+                "m/z value": "186",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "Nc1c(Cl)cccc1C(=O)OC",
+                "Token": "563",
+                "Calculated MW": 185.61
+            },
+            {
+                "m/z value": "194",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "258",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "306",
+                "Rel. Intensity": "15.315315",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "307",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "326",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1nccc2nc(S(=O)(=O)Nc3ccccc3Cl)nn12",
+                "Token": "512",
+                "Calculated MW": 325.74
+            },
+            {
+                "m/z value": "334",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1nccc2nc(S(=O)(=O)Nc3ccccc3C(=O)OC)nn12",
+                "Token": "553",
+                "Calculated MW": 333.33
+            },
+            {
+                "m/z value": "341",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "COc1nccc2nc(S(=O)(=O)Nc3ccccc3Cl)nn12",
+                "Token": "532",
+                "Calculated MW": 339.76
+            },
+            {
+                "m/z value": "342",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "Oc1nc(F)cc2nc(S(=O)(=O)Nc3ccccc3Cl)nn12",
+                "Token": "508",
+                "Calculated MW": 343.73
+            },
+            {
+                "m/z value": "370",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "Oc1nccc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn12",
+                "Token": "588",
+                "Calculated MW": 369.75
+            },
+            {
+                "m/z value": "371",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "c1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn12",
+                "Token": "552",
+                "Calculated MW": 371.74
+            },
+            {
+                "m/z value": "398",
+                "Rel. Intensity": "56.056056",
+                "Fragment": "c1cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn2c(OCC)n1",
+                "Token": "568",
+                "Calculated MW": 397.8
+            },
+            {
+                "m/z value": "399",
+                "Rel. Intensity": "2.702703",
+                "Fragment": "C(=O)c1cccc(Cl)c1NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "606",
+                "Calculated MW": 399.79
+            },
+            {
+                "m/z value": "402",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "Oc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)OC)nn12",
+                "Token": "593",
+                "Calculated MW": 401.76
+            },
+            {
+                "m/z value": "430",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(ccc2)C(=O)OC",
+                "Token": "551",
+                "Calculated MW": 429.82
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "551",
+        "Calculated MW": 429.82,
+        "Inchi": "InChI=1S/C15H13ClFN5O5S/c1-3-27-15-18-10(17)7-11-19-14(20-22(11)15)28(24,25)21-12-8(13(23)26-2)5-4-6-9(12)16/h4-7,21H,3H2,1-2H3",
+        "Spectrum": [
+            {
+                "m/z value": "185",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "S(=O)(=O)Nc1ccccc1C=O",
+                "Token": "569",
+                "Calculated MW": 185.2
+            },
+            {
+                "m/z value": "370",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "Oc1nccc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn12",
+                "Token": "588",
+                "Calculated MW": 369.75
+            },
+            {
+                "m/z value": "398",
+                "Rel. Intensity": "69.369369",
+                "Fragment": "c1cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)O)nn2c(OCC)n1",
+                "Token": "568",
+                "Calculated MW": 397.8
+            },
+            {
+                "m/z value": "399",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=O)c1cccc(Cl)c1NS(=O)(=O)c1nc2cc(F)nc(OCC)n2n1",
+                "Token": "606",
+                "Calculated MW": 399.79
+            },
+            {
+                "m/z value": "430",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(ccc2)C(=O)OC",
+                "Token": "551",
+                "Calculated MW": 429.82
+            },
+            {
+                "m/z value": "431",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "CCOC(=N3)n(n1)c(C=C(F)3)nc1S(=O)(=O)Nc(c(Cl)2)c(ccc2)C(=O)OC",
+                "Token": "551",
+                "Calculated MW": 429.82
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "611",
+        "Calculated MW": 311.34,
+        "Inchi": "InChI=1S/C17H17N3O3/c1-9(2)17(3)16(23)19-14(20-17)13-11(15(21)22)8-10-6-4-5-7-12(10)18-13/h4-9H,1-3H3,(H,21,22)(H,19,20,23)",
+        "Spectrum": [
+            {
+                "m/z value": "55",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "56.056056",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "6.306306",
+                "Fragment": "C(=N)NC=O",
+                "Token": "683",
+                "Calculated MW": 72.07
+            },
+            {
+                "m/z value": "72",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=N)NC=O",
+                "Token": "683",
+                "Calculated MW": 72.07
+            },
+            {
+                "m/z value": "83",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C1=NCC(=O)N1",
+                "Token": "741",
+                "Calculated MW": 84.08
+            },
+            {
+                "m/z value": "86",
+                "Rel. Intensity": "60.360360",
+                "Fragment": "C(=O)CC(C)C",
+                "Token": "700",
+                "Calculated MW": 86.13
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)CC(C)C",
+                "Token": "700",
+                "Calculated MW": 86.13
+            },
+            {
+                "m/z value": "96",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "100",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "C(=NCC)NC=O",
+                "Token": "720",
+                "Calculated MW": 100.12
+            },
+            {
+                "m/z value": "115",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "NC(=O)C(C)C(C)C",
+                "Token": "648",
+                "Calculated MW": 115.18
+            },
+            {
+                "m/z value": "126",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C1=NC(C)(CC)C(=O)N1",
+                "Token": "635",
+                "Calculated MW": 126.16
+            },
+            {
+                "m/z value": "128",
+                "Rel. Intensity": "49.049049",
+                "Fragment": "C(=N)NC(=O)CC(C)C",
+                "Token": "644",
+                "Calculated MW": 128.17
+            },
+            {
+                "m/z value": "129",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "c1cc2ccccc2nc1",
+                "Token": "688",
+                "Calculated MW": 129.16
+            },
+            {
+                "m/z value": "142",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "C(=NC(C)(C=O)C(C)C)N",
+                "Token": "629",
+                "Calculated MW": 142.2
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "76.476476",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "154",
+                "Rel. Intensity": "27.827828",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "156",
+                "Rel. Intensity": "6.706707",
+                "Fragment": "c1cc2ccccc2nc1C=N",
+                "Token": "651",
+                "Calculated MW": 156.19
+            },
+            {
+                "m/z value": "157",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)c1cc2ccccc2nc1",
+                "Token": "626",
+                "Calculated MW": 157.17
+            },
+            {
+                "m/z value": "167",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "169",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "171",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1cc2ccccc2nc1C(=N)N",
+                "Token": "698",
+                "Calculated MW": 171.2
+            },
+            {
+                "m/z value": "181",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "183",
+                "Rel. Intensity": "14.114114",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C=N",
+                "Token": "653",
+                "Calculated MW": 184.2
+            },
+            {
+                "m/z value": "194",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "197",
+                "Rel. Intensity": "47.447447",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "199",
+                "Rel. Intensity": "44.744745",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C(=N)N",
+                "Token": "661",
+                "Calculated MW": 199.21
+            },
+            {
+                "m/z value": "200",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=N)c1nc2ccccc2cc1C(=O)O",
+                "Token": "672",
+                "Calculated MW": 200.2
+            },
+            {
+                "m/z value": "205",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "207",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "210",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1cc2ccccc2nc1C1=NCC(=O)N1",
+                "Token": "621",
+                "Calculated MW": 211.22
+            },
+            {
+                "m/z value": "222",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "224",
+                "Rel. Intensity": "9.009009",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "697",
+                "Calculated MW": 225.25
+            },
+            {
+                "m/z value": "225",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "697",
+                "Calculated MW": 225.25
+            },
+            {
+                "m/z value": "234",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "236",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "249",
+                "Rel. Intensity": "2.402402",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "252",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "755",
+                "Calculated MW": 253.26
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "611",
+        "Calculated MW": 311.34,
+        "Inchi": "InChI=1S/C17H17N3O3/c1-9(2)17(3)16(23)19-14(20-17)13-11(15(21)22)8-10-6-4-5-7-12(10)18-13/h4-9H,1-3H3,(H,21,22)(H,19,20,23)",
+        "Spectrum": [
+            {
+                "m/z value": "58",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)CC",
+                "Token": "96",
+                "Calculated MW": 58.08
+            },
+            {
+                "m/z value": "67",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "76.876877",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "71",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "C(=N)NC=O",
+                "Token": "683",
+                "Calculated MW": 72.07
+            },
+            {
+                "m/z value": "73",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NC(=O)CC",
+                "Token": "723",
+                "Calculated MW": 73.09
+            },
+            {
+                "m/z value": "86",
+                "Rel. Intensity": "76.076076",
+                "Fragment": "C(=O)CC(C)C",
+                "Token": "700",
+                "Calculated MW": 86.13
+            },
+            {
+                "m/z value": "87",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)CC(C)C",
+                "Token": "700",
+                "Calculated MW": 86.13
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "C1=NC(C)C(=O)N1",
+                "Token": "625",
+                "Calculated MW": 98.1
+            },
+            {
+                "m/z value": "128",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "C(=N)NC(=O)CC(C)C",
+                "Token": "644",
+                "Calculated MW": 128.17
+            },
+            {
+                "m/z value": "142",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=NC(C)(C=O)C(C)C)N",
+                "Token": "629",
+                "Calculated MW": 142.2
+            },
+            {
+                "m/z value": "153",
+                "Rel. Intensity": "5.905906",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "c1cc2ccccc2nc1C=N",
+                "Token": "651",
+                "Calculated MW": 156.19
+            },
+            {
+                "m/z value": "156",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1cc2ccccc2nc1C=N",
+                "Token": "651",
+                "Calculated MW": 156.19
+            },
+            {
+                "m/z value": "171",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2ccccc2nc1C(=N)N",
+                "Token": "698",
+                "Calculated MW": 171.2
+            },
+            {
+                "m/z value": "181",
+                "Rel. Intensity": "35.735736",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "183",
+                "Rel. Intensity": "7.807808",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C=N",
+                "Token": "653",
+                "Calculated MW": 184.2
+            },
+            {
+                "m/z value": "184",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C=N",
+                "Token": "653",
+                "Calculated MW": 184.2
+            },
+            {
+                "m/z value": "186",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C=N",
+                "Token": "653",
+                "Calculated MW": 184.2
+            },
+            {
+                "m/z value": "197",
+                "Rel. Intensity": "29.029029",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "199",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C(=N)N",
+                "Token": "661",
+                "Calculated MW": 199.21
+            },
+            {
+                "m/z value": "200",
+                "Rel. Intensity": "3.503504",
+                "Fragment": "C(=N)c1nc2ccccc2cc1C(=O)O",
+                "Token": "672",
+                "Calculated MW": 200.2
+            },
+            {
+                "m/z value": "210",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "c1cc2ccccc2nc1C1=NCC(=O)N1",
+                "Token": "621",
+                "Calculated MW": 211.22
+            },
+            {
+                "m/z value": "222",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "224",
+                "Rel. Intensity": "40.040040",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "697",
+                "Calculated MW": 225.25
+            },
+            {
+                "m/z value": "225",
+                "Rel. Intensity": "7.407407",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "697",
+                "Calculated MW": 225.25
+            },
+            {
+                "m/z value": "227",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C(=N)NC=O",
+                "Token": "737",
+                "Calculated MW": 227.22
+            },
+            {
+                "m/z value": "234",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "241",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2ccccc2nc1C(=NC(C)C(C)C)N",
+                "Token": "657",
+                "Calculated MW": 241.34
+            },
+            {
+                "m/z value": "249",
+                "Rel. Intensity": "10.210210",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "252",
+                "Rel. Intensity": "42.742743",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "755",
+                "Calculated MW": 253.26
+            },
+            {
+                "m/z value": "253",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "755",
+                "Calculated MW": 253.26
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "267",
+                "Rel. Intensity": "17.217217",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(CC)C(=O)N1",
+                "Token": "645",
+                "Calculated MW": 267.29
+            },
+            {
+                "m/z value": "268",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)(C(C)C)C(=O)N1",
+                "Token": "724",
+                "Calculated MW": 267.33
+            },
+            {
+                "m/z value": "270",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "C(=NC(C)C(C)C)c1nc2ccccc2cc1C(=O)O",
+                "Token": "671",
+                "Calculated MW": 270.33
+            },
+            {
+                "m/z value": "284",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)C(C)(N=Cc1nc2ccccc2cc1C(=O)O)CC",
+                "Token": "636",
+                "Calculated MW": 284.32
+            },
+            {
+                "m/z value": "312",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "OC(=O)c(c2)c(nc(c3)c(ccc3)2)C(N1)=NC(C)(C(C)C)C(=O)1",
+                "Token": "611",
+                "Calculated MW": 311.34
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "611",
+        "Calculated MW": 311.34,
+        "Inchi": "InChI=1S/C17H17N3O3/c1-9(2)17(3)16(23)19-14(20-17)13-11(15(21)22)8-10-6-4-5-7-12(10)18-13/h4-9H,1-3H3,(H,21,22)(H,19,20,23)",
+        "Spectrum": [
+            {
+                "m/z value": "58",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "C(=O)CC",
+                "Token": "96",
+                "Calculated MW": 58.08
+            },
+            {
+                "m/z value": "69",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "70",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "86",
+                "Rel. Intensity": "31.731732",
+                "Fragment": "C(=O)CC(C)C",
+                "Token": "700",
+                "Calculated MW": 86.13
+            },
+            {
+                "m/z value": "97",
+                "Rel. Intensity": "3.103103",
+                "Fragment": "C1=NC(C)C(=O)N1",
+                "Token": "625",
+                "Calculated MW": 98.1
+            },
+            {
+                "m/z value": "114",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=NC(C)C(C)C)N",
+                "Token": "654",
+                "Calculated MW": 114.19
+            },
+            {
+                "m/z value": "155",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2ccccc2nc1C=N",
+                "Token": "651",
+                "Calculated MW": 156.19
+            },
+            {
+                "m/z value": "181",
+                "Rel. Intensity": "1.201201",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "197",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "199",
+                "Rel. Intensity": "26.226226",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C(=N)N",
+                "Token": "661",
+                "Calculated MW": 199.21
+            },
+            {
+                "m/z value": "200",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=N)c1nc2ccccc2cc1C(=O)O",
+                "Token": "672",
+                "Calculated MW": 200.2
+            },
+            {
+                "m/z value": "216",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "N=C(N)c1nc2ccccc2cc1C(=O)O",
+                "Token": "703",
+                "Calculated MW": 215.21
+            },
+            {
+                "m/z value": "223",
+                "Rel. Intensity": "5.105105",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "225",
+                "Rel. Intensity": "4.704705",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "697",
+                "Calculated MW": 225.25
+            },
+            {
+                "m/z value": "227",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C(=N)NC=O",
+                "Token": "737",
+                "Calculated MW": 227.22
+            },
+            {
+                "m/z value": "249",
+                "Rel. Intensity": "5.505506",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "252",
+                "Rel. Intensity": "23.123123",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "755",
+                "Calculated MW": 253.26
+            },
+            {
+                "m/z value": "253",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)C(=O)N1",
+                "Token": "755",
+                "Calculated MW": 253.26
+            },
+            {
+                "m/z value": "265",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "not identified"
+            },
+            {
+                "m/z value": "267",
+                "Rel. Intensity": "94.894895",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(CC)C(=O)N1",
+                "Token": "645",
+                "Calculated MW": 267.29
+            },
+            {
+                "m/z value": "268",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "c1cc2ccccc2nc1C1=NC(C)(C(C)C)C(=O)N1",
+                "Token": "724",
+                "Calculated MW": 267.33
+            },
+            {
+                "m/z value": "270",
+                "Rel. Intensity": "32.932933",
+                "Fragment": "C(=NC(C)C(C)C)c1nc2ccccc2cc1C(=O)O",
+                "Token": "671",
+                "Calculated MW": 270.33
+            },
+            {
+                "m/z value": "271",
+                "Rel. Intensity": "1.601602",
+                "Fragment": "C(=O)NC(=NCC)c1nc2ccccc2cc1C(=O)O",
+                "Token": "696",
+                "Calculated MW": 271.28
+            },
+            {
+                "m/z value": "281",
+                "Rel. Intensity": "2.002002",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)(CC)C(=O)N1",
+                "Token": "668",
+                "Calculated MW": 281.31
+            },
+            {
+                "m/z value": "284",
+                "Rel. Intensity": "18.418418",
+                "Fragment": "C(=O)C(C)(N=Cc1nc2ccccc2cc1C(=O)O)CC",
+                "Token": "636",
+                "Calculated MW": 284.32
+            },
+            {
+                "m/z value": "285",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "NC(=O)C(C)(N=Cc1nc2ccccc2cc1C(=O)O)C",
+                "Token": "612",
+                "Calculated MW": 285.3
+            },
+            {
+                "m/z value": "294",
+                "Rel. Intensity": "8.208208",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)(C(C)C)C(=O)N1",
+                "Token": "754",
+                "Calculated MW": 295.34
+            },
+            {
+                "m/z value": "295",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)(C(C)C)C(=O)N1",
+                "Token": "754",
+                "Calculated MW": 295.34
+            },
+            {
+                "m/z value": "312",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "OC(=O)c(c2)c(nc(c3)c(ccc3)2)C(N1)=NC(C)(C(C)C)C(=O)1",
+                "Token": "611",
+                "Calculated MW": 311.34
+            },
+            {
+                "m/z value": "313",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "C(C)(C(=O)NC(=N)c1nc2ccccc2cc1C(=O)O)C(C)C",
+                "Token": "673",
+                "Calculated MW": 313.36
+            }
+        ]
+    },
+    {
+        "OriginalMolecule": "611",
+        "Calculated MW": 311.34,
+        "Inchi": "InChI=1S/C17H17N3O3/c1-9(2)17(3)16(23)19-14(20-17)13-11(15(21)22)8-10-6-4-5-7-12(10)18-13/h4-9H,1-3H3,(H,21,22)(H,19,20,23)",
+        "Spectrum": [
+            {
+                "m/z value": "281",
+                "Rel. Intensity": "0.800801",
+                "Fragment": "C(=O)c1cc2ccccc2nc1C1=NC(C)(CC)C(=O)N1",
+                "Token": "668",
+                "Calculated MW": 281.31
+            },
+            {
+                "m/z value": "312",
+                "Rel. Intensity": "100.000000",
+                "Fragment": "OC(=O)c(c2)c(nc(c3)c(ccc3)2)C(N1)=NC(C)(C(C)C)C(=O)1",
+                "Token": "611",
+                "Calculated MW": 311.34
+            },
+            {
+                "m/z value": "313",
+                "Rel. Intensity": "4.304304",
+                "Fragment": "C(C)(C(=O)NC(=N)c1nc2ccccc2cc1C(=O)O)C(C)C",
+                "Token": "673",
+                "Calculated MW": 313.36
+            }
+        ]
+    }
+]
