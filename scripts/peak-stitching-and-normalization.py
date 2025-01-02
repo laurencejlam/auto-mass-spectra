@@ -1,3 +1,5 @@
+'''Stitches and normalizes data.'''
+
 import json
 
 # Function to detect peaks in a spectrum

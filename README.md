@@ -1,5 +1,5 @@
 # Predicting fragments from non-domain-specific mass spectra. 
-This is a full scientific workflow to create precise models to extract information from experimental, non-domain-specific mass spectra. The code presented can be further adapted to work with all data types and other model architectures.
+This is a full scientific workflow to create precise models to extract information from experimental, non-domain-specific mass spectra. The code presented can be adapted to work on alternative data types and other model architectures.
 
 ## Data source
 The dataset was curated from MassBank NA (https://mona.fiehnlab.ucdavis.edu/). Specifically, experimental LC-MSMS data in JSON format was used. You can use your own datasets as well, but note that the following scripts will need to be adapted for formatting. Tokenised-file-example.json is a short example of the formatting used for the full dataset from MassBank NA.

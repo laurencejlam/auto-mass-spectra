@@ -1,3 +1,5 @@
+'''Counts number of unique molecules'''
+
 import pandas as pd
 from rdkit import Chem
 

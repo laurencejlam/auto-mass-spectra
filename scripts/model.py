@@ -1,9 +1,11 @@
+'''Tensorflow model and eval metrics'''
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers, models
 from tensorflow.keras import metrics as keras_metrics
 from tensorflow.keras import backend as K
-#from tensorflow.keras import regularizers
+from tensorflow.keras import regularizers  #use this if using l2 regularizers in model.
 import os
 import matplotlib as mpl
 import matplotlib.pyplot as plt
@@ -21,7 +23,7 @@ import gc
 
 keras.backend.clear_session()
 
-# Check if GPU is available and limit TensorFlow to allocate memory as needed
+# Check if GPU is available and limit TensorFlow to allocate memory as needed, this step is optional.
 gpus = tf.config.experimental.list_physical_devices('GPU')
 if gpus:
     try:
@@ -43,10 +45,9 @@ totalmz = 1001
 
 # Load the tokens from the CSV
 tokens_df = pd.read_csv('updated_fragment_counts.csv')
-# Assuming the tokens are in the third column and the CSV has headers
-# Replace 'Token' with the actual column name if it has one
 
-#This sets the hyperparameter set to start with.
+
+#This sets the hyperparameter set to start with. Set to 0 for first pass.
 start = 45
 
 #This selects the hyperparameter rows to iterate through.
@@ -174,7 +175,7 @@ for token in top_30_tokens:
             tf.keras.layers.Reshape((1000, 1), input_shape=(1000,)),
             tf.keras.layers.Conv1D(conv1_neurons, 3, activation='relu'),
             tf.keras.layers.MaxPooling1D(2),
-            tf.keras.layers.Conv1D(conv2_neurons, 3, activation='relu'), #,                            kernel_regularizer=regularizers.l2(l2_factor)\
+            tf.keras.layers.Conv1D(conv2_neurons, 3, activation='relu'), #kernel_regularizer=regularizers.l2(l2_factor), if you want to add l2 regularization
             tf.keras.layers.MaxPooling1D(2),
             tf.keras.layers.Conv1D(conv3_neurons, 3, activation='relu'),
             tf.keras.layers.MaxPooling1D(2),
@@ -186,14 +187,12 @@ for token in top_30_tokens:
     
         model.compile(
             optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate),
-            loss=tf.keras.losses.BinaryCrossentropy(), #loss=tf.binary_crossentropy(pos_weight=pos_weight),  #
+            loss=tf.keras.losses.BinaryCrossentropy(), #loss=tf.binary_crossentropy(pos_weight=pos_weight)
             metrics=metrics)
         
         return model
     start_row_index = 0  # Replace with the desired starting index
 
-
-    # Your code here
     # Loop over hyperparameters
     for index, row in hyperparams_df.iloc[start_row_index:].iterrows():
         learning_rate = float(row.iloc[0])

@@ -1,3 +1,5 @@
+'''Tokenizes all molecules and fragments.'''
+
 import csv
 
 # Define dictionaries to store mappings

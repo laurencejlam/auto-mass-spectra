@@ -1,13 +1,11 @@
+'''Generates all possible fragments from parent molecules.'''
+
 from rdkit import Chem
 from rdkit.Chem import AllChem
 from rdkit.Chem import Descriptors
-
 import itertools
 import re
-
-
 import csv
-
 
 # This code generates the fragments of the parent molecule, and outputs it in a csv
 # It generates fragments by iteratively breaking 1-3 single, non-aromatic bonds in the molecule at a time, until all fragments are found.

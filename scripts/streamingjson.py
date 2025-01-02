@@ -1,3 +1,5 @@
+'''Streams JSON to csv'''
+
 import json
 import csv
 

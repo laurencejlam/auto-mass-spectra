@@ -1,3 +1,5 @@
+'''Matches fragments to mass spectral peaks.'''
+
 import csv
 from rdkit import Chem
 from rdkit.Chem import Descriptors
