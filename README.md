@@ -17,7 +17,7 @@ The data needs to be annotated in order to be useful for supervised learning. In
 Run peak-stitching-and-normalization.py to stitch together multiple spectra that make up a single data point, as well as normalizing the data using a peak area method to analyse the relative impact of each peak on its spectrum.
 
 ## Run model
-Run model.py to generate models using hyperparameter sets generated through monte carlo methods. This is a computationally efficient alternative to generating almost optimal hyperparameters. Hyperparameter.csv is an example of some hyperparameter sets.
+Run model.py to generate models using hyperparameter sets generated through monte carlo methods. This is a computationally efficient alternative to generating almost optimal hyperparameters. Hyperparameter.csv is an example of a small number of hyperparameter sets.
 
 The model is a 1-D CNN model designed to train on peak intensity data in 1 m/z bins.
 
