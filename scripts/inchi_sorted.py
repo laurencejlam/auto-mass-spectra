@@ -1,4 +1,6 @@
-import pandas as pd
+'''Keeps track of rows of all parent molecules from full Dataset.'''
+
+pandas as pd
 
 # Load your original CSV file into a pandas DataFrame
 original_df = pd.read_csv('book1.csv')
