@@ -1,4 +1,8 @@
 # Predicting fragments from non-domain-specific mass spectra. 
+
+
+<img src="https://github.com/user-attachments/assets/856285e0-e0fe-4036-a81d-ae3e0c8b1ac6" width=50%  height=50%>
+
 This is a full scientific workflow to create precise models to extract information from experimental, non-domain-specific mass spectra. The code presented can be adapted to work on alternative data types and other model architectures.
 
 ## Data source
@@ -14,6 +18,9 @@ The data needs to be annotated in order to be useful for supervised learning. In
 6. Run matching-peaks.py to calculate molecular weights and match the correct generated fragments to their corresponding peaks.
 
 ## Peak stitching and normalization.
+
+<img src="https://github.com/user-attachments/assets/ddfaf334-fcab-491a-bc8f-635f7105ac12" width=45%  height=45%>
+
 Run peak-stitching-and-normalization.py to stitch together multiple spectra that make up a single data point, as well as normalizing the data using a peak area method to analyse the relative impact of each peak on its spectrum.
 
 ## Run model
