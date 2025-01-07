@@ -37,7 +37,7 @@ mpl.rcParams['figure.figsize'] = (12, 10)
 colors = plt.rcParams['axes.prop_cycle'].by_key()['color']
 
 # Load the JSON data
-with open('normalised_data5-19.json', 'r') as file:
+with open('fulldata.json', 'r') as file:
     data = json.load(file)
 
 # Number of m/z values
@@ -57,7 +57,7 @@ top_30_tokens = tokens_df.iloc[start:60, 2].tolist()
 all_results = []
 
 # Path to save the results
-results_csv_path = 'hyper/30to100-top100params-24dec.csv'
+results_csv_path = 'save-results.csv'
 
 # Initialize the results DataFrame
 if not os.path.exists(results_csv_path):
@@ -74,8 +74,9 @@ else:
     results_df = pd.read_csv(results_csv_path)
 
 # Load hyperparameters from CSV
-hyperparams_df = pd.read_csv('hyper/hyper70.csv')
-#l2_factor = 0.0001  # Typical values: 0.001 or 0.0001
+hyperparams_df = pd.read_csv('hyperparameter.csv')
+
+#Introducing 'start' variable to print out training notifications
 start = start-1
 # Loop over each token
 for token in top_30_tokens:
